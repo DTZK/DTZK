@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+Discord: Magikra#5330
 
 <!---
 DTZK/DTZK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
